@@ -1,4 +1,3 @@
 # html-css
- Projetos e Estudos do curso de HTML5 e CSS3 do Curso em Vídeo
 
- Estou aprendendo a criar sites!!!
+    Projetos, desafios e atividades desenvolvidas durante o estudo de Html e Css, realizados no curso "Curso em Vídeo" [ Módulo 01 ao 05 de HTML e CSS].
